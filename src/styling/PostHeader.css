@@ -1,0 +1,13 @@
+.postHeader {
+    position: sticky;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    z-index: 100;
+    top: 65px;
+    background-color: white;
+}
+
+.postHeader > button {
+    text-transform: inherit;
+}
