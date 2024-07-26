@@ -1,4 +1,4 @@
-# *App deployed [here](airbnb-clone-a6345.firebaseapp.com)*
+# App deployed at *airbnb-clone-a6345.web.app*
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
